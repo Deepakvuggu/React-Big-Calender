@@ -125,7 +125,7 @@ export default function BigCalendarComponent() {
 
     return (
         <div className="calendar-wrap">
-            <h2>React Big Calendar — Data + Bar Graph Popup</h2>
+            <h2 style={{textAlign:'center'}}>React Big Calendar</h2>
 
             <Calendar
                 localizer={localizer}
