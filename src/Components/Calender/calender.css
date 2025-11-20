@@ -1,0 +1,11 @@
+/* src/components/Calendar/calendar.css */
+
+.calendar-container {
+  padding: 20px;
+}
+
+.calendar-heading {
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
